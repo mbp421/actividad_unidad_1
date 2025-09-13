@@ -22,7 +22,7 @@ for e in estudiantes:
     e.mostrarInfo()
 
 # 4 Modificación
-e2.setPromedio(9.1)
+e2.setPromedio(4.1)
 
 print("\n--- Lista de estudiantes después de la modificación ---")
 for e in estudiantes:
